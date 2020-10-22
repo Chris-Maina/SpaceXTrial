@@ -1,5 +1,6 @@
 # SpaceXTrial
-An space explorer application that allows you to book trips to space 😜  with the help of [SpaceX api](https://github.com/r-spacex/SpaceX-API).
+A space explorer application that allows you to book trips to space 😜  with the help of [SpaceX api](https://github.com/r-spacex/SpaceX-API).
+
 Built using [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html)
 
 ## File Structure
